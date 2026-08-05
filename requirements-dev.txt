@@ -1,0 +1,10 @@
+# Fully pinned test environment verified with Python 3.12.13 on 2026-08-05.
+colorama==0.4.6
+coverage==7.15.3
+iniconfig==2.3.0
+packaging==26.3
+pluggy==1.6.0
+Pygments==2.20.0
+pytest==9.1.1
+pytest-cov==7.0.0
+

@@ -1,0 +1,29 @@
+[project]
+name = "stellar-burgers-unit-tests"
+version = "0.1.0"
+description = "Portfolio unit tests for a clean-room burger domain demo"
+readme = "README.md"
+requires-python = "==3.12.*"
+dependencies = []
+
+[tool.pytest.ini_options]
+minversion = "9.1"
+testpaths = ["tests"]
+addopts = [
+    "-ra",
+    "--strict-config",
+    "--strict-markers",
+]
+
+[tool.coverage.run]
+source = ["stellar_burgers"]
+
+[tool.coverage.report]
+fail_under = 100
+precision = 2
+show_missing = true
+skip_empty = true
+
+[tool.coverage.xml]
+output = "coverage.xml"
+
