@@ -2,7 +2,7 @@
 
 ## Audited sources
 
-- Educational fork: `Nellie-ai/Diplom_1`
+- Educational source: historical course fork (private; not required to access or run this repository)
 - Reviewed reference: branch `develop1`, commit `8d53baf4243ead6b06f848c65becc0055c52bee5`
 - Upstream starter repository: `Yandex-Practicum/qa-python-project`
 - Audit date: 2026-08-05
