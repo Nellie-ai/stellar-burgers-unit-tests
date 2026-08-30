@@ -50,7 +50,7 @@ Coverage is configured to fail below 100%. The generated `htmlcov/`, `coverage.x
 
 ## Provenance
 
-The test scenarios were adapted from an educational project reviewed in `Nellie-ai/Diplom_1` at commit `8d53baf4243ead6b06f848c65becc0055c52bee5`.
+The test scenarios were adapted from an educational course project reviewed at commit `8d53baf4243ead6b06f848c65becc0055c52bee5`. The historical source repository is not required to access or run this standalone clean-room portfolio project.
 
 The original production starter files from `Yandex-Practicum/qa-python-project` are not included because the upstream repository does not contain a license or an explicit reuse grant. The `stellar_burgers` package is an independently written minimal demo implementation with new structure and data. See [PROVENANCE.md](PROVENANCE.md) for details.
 
